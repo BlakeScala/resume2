@@ -1,0 +1,25 @@
+* {
+  font-family: serif;
+}
+h1 {
+  font-size: 44px;
+}
+li {
+  list-style:inside;
+}
+.intro {
+  font-weight: bold;
+}
+.school {
+  color: blue;
+}
+.special {
+  font-weight: bold;
+  font-style: italic;
+}
+.work {
+  color: red;
+}
+.skill {
+  color: green;
+}
